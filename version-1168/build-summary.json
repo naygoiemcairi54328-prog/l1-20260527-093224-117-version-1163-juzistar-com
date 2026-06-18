@@ -1,0 +1,21 @@
+{
+  "site_title": "亚洲经典电影-经典影片合集-高清电影在线点播",
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "categories": {
+    "亚洲经典": 243,
+    "剧情人文": 240,
+    "动作犯罪": 237,
+    "爱情治愈": 178,
+    "悬疑惊悚": 240,
+    "喜剧轻松": 176,
+    "科幻奇幻": 170,
+    "动画家庭": 166,
+    "历史战争": 174,
+    "环球片库": 176
+  },
+  "html_pages_total": 2014,
+  "baidu_script_inserted_in_all_html_pages": true,
+  "cover_image_rule": "pages reference top-level 1.jpg to 150.jpg cyclically; image files are not regenerated"
+}
